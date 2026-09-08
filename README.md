@@ -2,20 +2,20 @@
 
 > I love turning impossible ideas into possible things.
 
-I'm a Computer Science student and developer who enjoys building
+Computer Science student and developer focused on building
 real-world projects, solving problems, and learning by creating.
 
 ### 🛠️ Tech Stack
 
 **Languages:** C++ · Java · Python · JavaScript · TypeScript  
 **Web:** HTML · CSS · React · Node.js  
-**Database & Tools:** MySQL · Git · GitHub
+**Tools:** MySQL · Git · GitHub
 
 ### 🚀 What I Build
 
 Web applications · Software projects · AI/ML experiments
 
-### 💡 How I Work
+### 💡 Philosophy
 
 Build → Break → Learn → Improve → Repeat
 
